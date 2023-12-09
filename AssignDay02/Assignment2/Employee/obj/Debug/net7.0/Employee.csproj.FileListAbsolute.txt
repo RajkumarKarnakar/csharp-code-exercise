@@ -1,0 +1,14 @@
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\bin\Debug\net7.0\Employee.exe
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\bin\Debug\net7.0\Employee.deps.json
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\bin\Debug\net7.0\Employee.dll
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\bin\Debug\net7.0\Employee.pdb
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.dll
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\refint\Employee.dll
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.pdb
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+D:\DAC\.NET\MS.NET lab\AssignDay02\Assignment2\Employee\obj\Debug\net7.0\ref\Employee.dll

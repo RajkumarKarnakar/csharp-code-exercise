@@ -1,0 +1,14 @@
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\bin\Debug\net7.0\EmpMangement.exe
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\bin\Debug\net7.0\EmpMangement.deps.json
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\bin\Debug\net7.0\EmpMangement.runtimeconfig.json
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\bin\Debug\net7.0\EmpMangement.dll
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\bin\Debug\net7.0\EmpMangement.pdb
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.AssemblyInfoInputs.cache
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.AssemblyInfo.cs
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.csproj.CoreCompileInputs.cache
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.dll
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\refint\EmpMangement.dll
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.pdb
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\EmpMangement.genruntimeconfig.cache
+D:\DAC\.NET\MS.NET lab\AssignDay01\EmpMangement\obj\Debug\net7.0\ref\EmpMangement.dll
