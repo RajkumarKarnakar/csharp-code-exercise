@@ -1,0 +1,14 @@
+C:\Users\rajku\source\repos\Employee\Assing03\bin\Debug\net7.0\Assing03.exe
+C:\Users\rajku\source\repos\Employee\Assing03\bin\Debug\net7.0\Assing03.deps.json
+C:\Users\rajku\source\repos\Employee\Assing03\bin\Debug\net7.0\Assing03.runtimeconfig.json
+C:\Users\rajku\source\repos\Employee\Assing03\bin\Debug\net7.0\Assing03.dll
+C:\Users\rajku\source\repos\Employee\Assing03\bin\Debug\net7.0\Assing03.pdb
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.AssemblyInfoInputs.cache
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.AssemblyInfo.cs
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.csproj.CoreCompileInputs.cache
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.dll
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\refint\Assing03.dll
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.pdb
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.genruntimeconfig.cache
+C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\ref\Assing03.dll
