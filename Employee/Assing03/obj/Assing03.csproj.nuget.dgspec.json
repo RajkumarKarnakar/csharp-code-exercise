@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajku\\source\\repos\\Employee\\Assing03\\Assing03.csproj": {}
+    "D:\\_git_add\\New folder\\csharpcodes\\Employee\\Assing03\\Assing03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajku\\source\\repos\\Employee\\Assing03\\Assing03.csproj": {
+    "D:\\_git_add\\New folder\\csharpcodes\\Employee\\Assing03\\Assing03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajku\\source\\repos\\Employee\\Assing03\\Assing03.csproj",
+        "projectUniqueName": "D:\\_git_add\\New folder\\csharpcodes\\Employee\\Assing03\\Assing03.csproj",
         "projectName": "Assing03",
-        "projectPath": "C:\\Users\\rajku\\source\\repos\\Employee\\Assing03\\Assing03.csproj",
+        "projectPath": "D:\\_git_add\\New folder\\csharpcodes\\Employee\\Assing03\\Assing03.csproj",
         "packagesPath": "C:\\Users\\rajku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajku\\source\\repos\\Employee\\Assing03\\obj\\",
+        "outputPath": "D:\\_git_add\\New folder\\csharpcodes\\Employee\\Assing03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajku\\AppData\\Roaming\\NuGet\\NuGet.Config",

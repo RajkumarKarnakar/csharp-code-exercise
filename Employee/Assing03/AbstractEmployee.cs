@@ -41,6 +41,12 @@ namespace Assing03
             Basic = basic;
             DeptNo = deptNo;
         }
+		protected Employee(string name,short deptId)
+		{
+            Name=name;
+            DeptNo=deptId;
+
+        }
 		public abstract decimal GetNetSalary();
 
         public override string? ToString()

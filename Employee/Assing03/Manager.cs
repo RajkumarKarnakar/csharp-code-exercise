@@ -1,7 +1,7 @@
 ﻿using Assing03;
 using System;
 
-internal class Manager:Employee
+internal class Manager : Employee
 {
     private string _designation;
     public string Designation { set { if (value != "" || value != null) _designation = value;
@@ -10,10 +10,15 @@ internal class Manager:Employee
 
 
 
-    protected override decimal Basic { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    protected override decimal Basic { set; get; }
 
-    public override decimal GetNetSalary()
+    public Manager(string name, short deptId, string designation, decimal basic) : base(name, deptId) 
     {
-        throw new NotImplementedException();
+        Basic = basic;
+        Designation = designation;
+    }
+    public Manager(string name, short deptId, string designation) : base(name, deptId)
+    {
+        Designation = designation;
     }
 }
