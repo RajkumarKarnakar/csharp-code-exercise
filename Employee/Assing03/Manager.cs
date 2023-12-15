@@ -21,4 +21,14 @@ internal class Manager : Employee
     {
         Designation = designation;
     }
+
+    public override decimal GetNetSalary()
+    {
+        return Basic * 8;
+    }
+
+    public override string? ToString()
+    {
+        return base.ToString()+" Designation "+Designation+" Salary "+GetNetSalary();
+    }
 }

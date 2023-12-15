@@ -12,3 +12,18 @@ C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\refint\Assing03.d
 C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.pdb
 C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\Assing03.genruntimeconfig.cache
 C:\Users\rajku\source\repos\Employee\Assing03\obj\Debug\net7.0\ref\Assing03.dll
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\bin\Debug\net7.0\Assing03.exe
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\bin\Debug\net7.0\Assing03.deps.json
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\bin\Debug\net7.0\Assing03.runtimeconfig.json
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\bin\Debug\net7.0\Assing03.dll
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\bin\Debug\net7.0\Assing03.pdb
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.GeneratedMSBuildEditorConfig.editorconfig
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.AssemblyInfoInputs.cache
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.AssemblyInfo.cs
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.csproj.CoreCompileInputs.cache
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.sourcelink.json
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.dll
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\refint\Assing03.dll
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.pdb
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\Assing03.genruntimeconfig.cache
+D:\_git_add\New folder\csharpcodes\Employee\Assing03\obj\Debug\net7.0\ref\Assing03.dll
